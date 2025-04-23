@@ -1,12 +1,8 @@
-<h1 align="center"> Hi there 👋 I'm Idoia </h1>
+## Hi there 👋 I'm Idoia
 
- <p align="center">
 🌈 Full-Stack Developer with a background in Psychology & Education
-</p>
+😄 Pronouns: She/Her
 
-<p align="center">
- 😄 Pronouns: She/Her
-</p>
 
 ---
 
