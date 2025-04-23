@@ -7,6 +7,7 @@
 <p align="center">
  😄 Pronouns: She/Her
 </p>
+
 ---
 
 ### 🧑‍💻 About Me
