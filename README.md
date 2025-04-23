@@ -13,7 +13,7 @@
 I'm a passionate developer who loves learning and is motivated to connect technology with people.
 In my projects, I aim to combine creativity and analytical thinking to develop meaningful solutions.
 
----
+
 
 ### 🛠️ Technologies & Tools
 
@@ -30,7 +30,7 @@ In my projects, I aim to combine creativity and analytical thinking to develop m
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 </p>
 
----
+
 
 ### 🌱 Currently Learning...
 <p>
@@ -38,27 +38,27 @@ In my projects, I aim to combine creativity and analytical thinking to develop m
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
+
 
 ### 🔭 Currently Working On...
 
-- 🧠 **Test MARRA**: an interactive visual test to raise awareness about unconscious bias and promote reflection through tech.
+🧠 **Test MARRA**: an interactive visual test to raise awareness about unconscious bias and promote reflection through tech.
 
----
+
 
 ### 💜 Personal Interests
 
 - All things diversity
 - Education and technology with social impact
 
----
+
 
 ### 📫 Get in Touch
 
 ✉️ [Email](idoiabeurrutia@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/idoia-belloso-elola/)  
 
----
+
 
 ### 🌍 You can speak to me in...
 
