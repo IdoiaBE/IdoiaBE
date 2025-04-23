@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Idoia
 <p>
-  🌈 Full-Stack Developer with a background in Psychology & Education    &nbsp 😄 Pronouns: She/Her
+  🌈 Full-Stack Developer with a background in Psychology & Education &nbsp &nbsp 😄 Pronouns: She/Her
 </p>
 
 
