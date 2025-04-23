@@ -3,9 +3,6 @@
 🌈 Full-Stack Developer with a background in Psychology & Education
 😄 Pronouns: She/Her
 
-
----
-
 ### 🧑‍💻 About Me
 
 I'm a developer who finds joy in learning and building digital experiences that truly connect with people.
