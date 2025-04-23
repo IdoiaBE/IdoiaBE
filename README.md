@@ -5,14 +5,14 @@
 
 
 
-### 🧑‍💻 About Me
+### About Me
 
 I'm a developer who finds joy in learning and building digital experiences that truly connect with people.
 In my work, I strive to blend creativity with analytical thinking to deliver purposeful and impactful solutions.
 
 
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -29,7 +29,7 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 
 
 
-### 🌱 Currently Learning...
+### Currently Learning...
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
@@ -37,19 +37,19 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 
 
 
-### 🔭 Currently Working On...
+### Currently Working On...
 
 **Test MARRA**: an interactive visual test to raise awareness about unconscious bias and promote reflection through tech.
 
 
-### 📫 Get in Touch
+### Get in Touch
 
 ✉️ [Email](idoiabeurrutia@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/idoia-belloso-elola/)  
 
 
 
-### 🌍 You can speak to me in...
+### You can speak to me in...
 
 <p>
   Basque  | Spanish | Catalan | English | French
