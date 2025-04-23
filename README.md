@@ -53,11 +53,9 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 
 ### 🌍 You can speak to me in...
 
-- Basque 
-- Spanish 
-- Catalan
-- English  
-- French
+<p>
+  Basque  | Spanish | Catalan | English | French
+</p>
   
 
 ---
