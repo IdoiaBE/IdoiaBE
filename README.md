@@ -2,7 +2,6 @@
 
  <p align="center">
 🌈 Full-Stack Developer with a background in Psychology & Education
-💡 Passionate about creating accessible and user-centric digital experiences
 😄 Pronouns: She/Her
 </p>
 
@@ -10,8 +9,8 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate developer who loves learning and is motivated to connect technology with people.
-In my projects, I aim to combine creativity and analytical thinking to develop meaningful solutions.
+I'm a developer who finds joy in learning and building digital experiences that truly connect with people.
+In my work, I strive to blend creativity with analytical thinking to deliver purposeful and impactful solutions.
 
 
 
