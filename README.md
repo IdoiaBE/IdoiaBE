@@ -2,9 +2,11 @@
 
  <p align="center">
 🌈 Full-Stack Developer with a background in Psychology & Education
-😄 Pronouns: She/Her
 </p>
 
+<p align="center">
+ 😄 Pronouns: She/Her
+</p>
 ---
 
 ### 🧑‍💻 About Me
@@ -42,14 +44,6 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 ### 🔭 Currently Working On...
 
 **Test MARRA**: an interactive visual test to raise awareness about unconscious bias and promote reflection through tech.
-
-
-
-### 💜 Personal Interests
-
-- All things diversity
-- Education and technology with social impact
-
 
 
 ### 📫 Get in Touch
