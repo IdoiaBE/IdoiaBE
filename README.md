@@ -44,8 +44,8 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 
 ### Get in Touch
 
-✉️ [Email](idoiabeurrutia@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/idoia-belloso-elola/)  
+✉️ [Email](mailto:idoiabeurrutia@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/idoiabe/)  
 
 
 
