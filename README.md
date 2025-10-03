@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Idoia
 <p>
-  🌈 Full-Stack Developer with a background in Psychology & Education &nbsp &nbsp 😄 Pronouns: She/Her
+  🌈 Full-Stack Developer
 </p>
 
 
@@ -39,7 +39,7 @@ In my work, I strive to blend creativity with analytical thinking to deliver pur
 
 ### Currently Working On...
 
-**Test MARRA**: an interactive visual test to raise awareness about unconscious bias and promote reflection through tech.
+**Newspaper replica**: a static replica of a newspaper front page using HTML5, SCSS, and Bootstrap.
 
 
 ### Get in Touch
